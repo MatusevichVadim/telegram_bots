@@ -1,0 +1,622 @@
+Choose your language
+-Ru
+-En
+
+#RU
+#При нажатии на русский появляется постик + выбор городов
+(Качки, всех приветствую в нашем магазине.
+Если будут какие нибудь вопросы, писать на @BodyBilderTest )
+-Калининград
+-Москва
+-Сменить локализацию
+
+#При нажатии на Cменить локализацию попадаем в меню выбора языка
+
+#При нажатии на Калининград попадаем в меню выбора
+#При нажатии на Москва попадаем в меню выбора
+
+#Меню выбора
+-Тестостерон
+-Метандростенолон
+-Стромбафорт
+-Сменить город
+-Активные оплаты
+
+#При нажатии на активные оплаты перебрасывает в оплату к той монете,
+которая уже была выбрана и оплата отменена не была.
+#Если никакой оплаты выбрано не было, то выскакивает сообщение:
+Никакой оплаты выбрано не было. #перекидывает на меню выбора.
+
+#При нажатии на Cменить город попадаем в меню выбора городов
+
+#При нажатии на Тестостерон появляется список предлагаемых товаров:
+-Тестостерон Балканы 10 амп. 40$
+-Тестостерон Балканы 30 апм. 115$
+-Тестостерон Балканы 50 амп. 185$
+-Тестостерон Франция 10 амп. 40$
+-Тестостерон Франция 30 амп. 115$
+-Тестостерон Франция 50 амп. 185$
+-Назад
+При нажатии назад попадаем в меню выбора
+
+#При нажатии на Тестостерон Балканы 10 амп. 40$  появляется фото и описание товара.
+После описания есть кнопка назад
+Снизу по центру кнопка Оплатить.
+( Balkan Pharmaceuticals
+Страна Балканы
+Тестостерон 10мл
+П/НП 60%/40%
+%: 10-11% )
+
+#При нажатии назад попадаем в cписок предлагаемых товаров
+
+#При нажатии на Тестостерон Балканы 30 апм. 115$ появляется фото и описание товара.
+После описания есть кнопка назад
+Снизу по центру кнопка Оплатить.
+( Balkan Pharmaceuticals
+Страна Молдова
+Тестостерон 10мл
+П/НП 60%/40%
+%: 10-11% )
+
+
+#При нажатии назад попадаем в cписок предлагаемых товаров
+
+#При нажатии на Тестостерон Балканы 50 амп. 185$ появляется фото и описание товара.
+После описания есть кнопка назад
+Снизу по центру кнопка Оплатить.
+( Balkan Pharmaceuticals
+Страна Молдова
+Тестостерон 10мл
+П/НП 60%/40%
+%: 10-11% )
+
+
+#При нажатии назад попадаем в cписок предлагаемых товаров
+
+#При нажатии на Тестостерон Франция 10 амп. 40$ появляется фото и описание товара.
+После описания есть кнопка назад
+Снизу по центру кнопка Оплатить.
+( Balkan Pharmaceuticals
+Страна Франция
+Тестостерон 10мл
+П/НП 60%/40%
+%: 10-11% )
+
+
+#При нажатии назад попадаем в cписок предлагаемых товаров
+
+#При нажатии на Тестостерон Франция 30 амп. 115$ появляется фото и описание товара.
+После описания есть кнопка назад
+Снизу по центру кнопка Оплатить.
+( Balkan Pharmaceuticals
+Страна Франция
+Тестостерон 10мл
+П/НП 60%/40%
+%: 10-11% )
+
+
+
+#При нажатии назад попадаем в cписок предлагаемых товаров
+
+#При нажатии на Тестостерон Франция 50 амп. 185$ появляется фото и описание товара.
+После описания есть кнопка назад
+Снизу по центру кнопка Оплатить.
+
+( Balkan Pharmaceuticals
+Страна Франция
+Тестостерон 10мл
+П/НП 60%/40%
+%: 10-11% )
+
+
+#При нажатии назад попадаем в cписок предлагаемых товаров
+
+#При нажатии на Метандростенолон появляется список предлагаемых товаров
+-2 упак Метандростенолон-10 170 mg. 78 usd
+-3 упак Метандростенолон-10 170 mg. 108 usd
+-5 упак Метандростенолон-10 170 mg. 170 usd
+-10 упак Метандростенолон-10 170 mg. 380 usd
+-Назад
+При нажатии назад попадаем в меню выбора
+
+#При нажатии на 2 упак Метандростенолон-10 170 mg. 78 usd появляется фото и
+описание товара.
+После описания есть кнопка назад
+Снизу по центру кнопка Оплатить.
+(Balkan Pharmaceuticals Danabol
+Страна Молдова
+Метандростенолон 10мг.
+П/НП 11%/3%
+%: 4-6% )
+
+#При нажатии назад попадаем в cписок предлагаемых товаров
+
+#При нажатии на 3 упак Метандростенолон-10 170 mg. 108 usd появляется фото и
+описание товара.
+После описания есть кнопка назад
+Снизу по центру кнопка Оплатить.
+(Balkan Pharmaceuticals Danabol
+Страна Молдова
+Метандростенолон 10мг.
+П/НП 11%/3%
+%: 4-6% )
+
+#При нажатии назад попадаем в cписок предлагаемых товаров
+
+#При нажатии на 5 упак Метандростенолон-10 170 mg. 170 usd появляется фото и
+описание товара.
+После описания есть кнопка назад
+Снизу по центру кнопка Оплатить.
+(Balkan Pharmaceuticals Danabol
+Страна Молдова
+Метандростенолон 10мг.
+П/НП 11%/3%
+%: 4-6% )
+
+#При нажатии назад попадаем в cписок предлагаемых товаров
+
+#При нажатии на 10 упак Метандростенолон-10 170 mg. 380 usd появляется фото и
+описание товара.
+После описания есть кнопка назад
+Снизу по центру кнопка Оплатить.
+(Balkan Pharmaceuticals Danabol
+Страна Молдова
+Метандростенолон 10мг.
+П/НП 11%/3%
+%: 4-6% )
+
+#При нажатии назад попадаем в cписок предлагаемых товаров
+
+#При нажатии на Стромбафорт появляется список предлагаемых товаров
+-Стромбафорт 6 упак. 117$
+-Стромбафорт 15 упак. 238$
+
+#При нажатии на Стромбафорт 6 упак. 117$ появляется фото и описание товара.
+После описания есть кнопка назад
+Снизу по центру кнопка Оплатить.
+(Strombafort
+Страна Молдова
+Станозолол 10мг.
+П/НП 7%/9%
+%: 12-16% )
+
+#При нажатии назад попадаем в cписок предлагаемых товаров
+
+#При нажатии на Стромбафорт 15 упак. 238$ появляется фото и описание товара.
+После описания есть кнопка назад
+Снизу по центру кнопка Оплатить.
+(Strombafort
+Страна Молдова
+Станозолол 10мг.
+П/НП 7%/9%
+%: 12-16% )
+
+#При нажатии назад попадаем в cписок предлагаемых товаров
+
+
+#При нажатии на кнопку Оплатить вылазит список монет, которыми можно оплатить.
+-BTC
+-ETH
+-USDT trc20
+-XMR
+-ZEC
+-LTC
+
+#Для каждого товара описание приводить не буду, так как всё тут делается по алгоритму.
+Берём цену за определённый товар, обращаемся на coinmarketcap, узнаём точный
+курс той или иной монеты к доллару. составляем пропорцию.
+К примеру: товар стоит 100$, а курс биткоина к доллару 27000.
+Нам нужно узнать, сколько биткоина нужно перевести, чтобы это было 100$.
+27000 - 1 биткоин
+100 - x биткоинов
+(100*1)/27000 = 0,0037. Значит за товар нам нужно получить 0,0037 биткоина.
+
+
+#При нажатии на BTC выскакивает список:
+BTC:
+Bt7357hggjk63ffjlcszxvb53fs256gfsjjch531j   #Mono
+xxx BTC   #Mono #Для уточнения цены, сколько это будет в btc обращаться в
+Coinmarketcap или в другой сервис.
+Оплатить до:    #ровно один час, после оформления заявки
+
+После оплаты прислать TXID транзакции.
+
+Отменить оплату
+
+#При нажатии Отменить оплату попадаем в список монет.
+
+#Когда присылают TXID транзакции, то выскакивает сообщение:
+-Не верный TXID
+
+#При нажатии на ETH выскакивает список:
+ETH: Eth99357hggjk63ffjlcszxvb53fs256gffgh531j   #Mono
+xxx ETH   #Mono #Для уточнения цены, сколько это будет в eth обращаться в
+Coinmarketcap или в другой сервис.
+Оплатить до:    #ровно один час, после оформления заявки
+
+После оплаты прислать TXID транзакции.
+
+#Когда присылают TXID транзакции, то выскакивает сообщение:
+-Не верный TXID
+
+#При нажатии на USDT trc20 выскакивает список:
+USDT trc20: trc257hggjk63ffjlcszxvb53fs256gfsjjch531j   #Mono
+xxx USDT   #Mono #Для уточнения цены, сколько это будет в usdt обращаться в
+Coinmarketcap или в другой сервис.
+Оплатить до:    #ровно один час, после оформления заявки
+
+После оплаты прислать TXID транзакции.
+
+Отменить оплату
+
+#При нажатии Отменить оплату попадаем в список монет.
+
+#Когда присылают TXID транзакции, то выскакивает сообщение:
+-Не верный TXID
+
+#При нажатии на XMR выскакивает список:
+XMR: XMR357hggjk63ffjlcszxvb53fs256gfsjjch531j   #Mono
+xxx XMR   #Mono #Для уточнения цены, сколько это будет в xmr обращаться в
+Coinmarketcap или в другой сервис.
+Оплатить до:    #ровно один час, после оформления заявки
+
+После оплаты прислать TXID транзакции.
+
+Отменить оплату
+
+#При нажатии Отменить оплату попадаем в список монет.
+
+#Когда присылают TXID транзакции, то выскакивает сообщение:
+-Не верный TXID
+
+#При нажатии на ZEC выскакивает список:
+ZEC: LTc357hggjk63ffjlcszxvb53fs256gfsjjch531j   #Mono
+xxx ZEC   #Mono #Для уточнения цены, сколько это будет в zec обращаться в
+Coinmarketcap или в другой сервис.
+Оплатить до:    #ровно один час, после оформления заявки
+
+После оплаты прислать TXID транзакции.
+
+Отменить оплату
+
+#При нажатии Отменить оплату попадаем в список монет.
+
+#Когда присылают TXID транзакции, то выскакивает сообщение:
+-Не верный TXID
+
+#При нажатии на LTC выскакивает список:
+LTC: Bt7357hggjk63ffjlcszxvb53fs256gfsjjch531j   #Mono
+xxx LTC   #Mono #Для уточнения цены, сколько это будет в ltc обращаться в
+Coinmarketcap или в другой сервис.
+Оплатить до:    #ровно один час, после оформления заявки
+
+После оплаты прислать TXID транзакции.
+
+Отменить оплату
+
+#При нажатии Отменить оплату попадаем в список монет.
+
+#Когда присылают TXID транзакции, то выскакивает сообщение:
+-Не верный TXID
+Назад
+
+#При нажатии назад попадаем в меню выбора.
+
+
+
+#EN
+#При нажатии на аглийский появляется постик + выбор городов
+(Jocks, welcome to our store.
+If you have any questions, write to @BodyBuilderTest)
+-Kaliningrad
+-Moscow
+-Change Localization
+
+#При нажатии на Change Localization попадаем в меню выбора языка
+
+#При нажатии на Kaliningrad попадаем в меню выбора
+#При нажатии на Moscow попадаем в меню выбора
+
+#Меню выбора
+-Testosterone
+-Methandrostenolone
+-Strombafort
+-Change City
+-Active Payments
+
+#При нажатии на Active Payments перебрасывает в оплату к той монете,
+которая уже была выбрана и оплата отменена не была.
+#Если никакой оплаты выбрано не было, то выскакивает сообщение:
+No payment was selected. #перекидывает на меню выбора.
+
+#При нажатии на -Change City попадаем в меню выбора городов
+
+#При нажатии на Testosterone появляется список предлагаемых товаров:
+-Testosterone Balkans 10 amp. 40$
+-Testosterone Balkans 30 amp. 115$
+-Testosterone Balkans 50 amp. 185$
+-Testosterone France 10 amp. 40$
+-Testosterone France 30 amp. 115$
+-Testosterone France 50 amp. 185$
+-Back
+
+При нажатии Back попадаем в меню выбора
+
+#If you click on Testosterone Balkans 10 amp. 40$ appears a photo and description of the product.
+After the description there is a back button.
+Bottom center button Pay.
+( Balkan Pharmaceuticals
+Country Balkans
+Testosterone 10ml
+P/NP 60%/40%
+%: 10-11% )
+
+#Clicking back takes you to the list of offered items
+
+#If you click on Testosterone Balkans 30 apm. 115$, a photo and description of the product appears.
+After the description is the back button.
+Bottom center button Pay.
+( Balkan Pharmaceuticals
+Country Moldova
+Testosterone 10ml
+P/NP 60%/40%
+%: 10-11% )
+
+
+#I press back to the list of offered items
+
+#If you click on Testosterone Balkans 50 amp. 185$, a photo and description of the product appears.
+After the description is the back button.
+Bottom center button Pay.
+( Balkan Pharmaceuticals
+Country Moldova
+Testosterone 10ml
+P/NP 60%/40%
+%: 10-11% )
+
+
+#Clicking backwards takes you to the list of offered items
+
+#If you click on Testosterone France 10 amp. 40$ appears a photo and description of the product.
+After the description is the back button
+Bottom center button Pay.
+( Balkan Pharmaceuticals
+Country France
+Testosterone 10ml
+P/NP 60%/40%
+%: 10-11% )
+
+
+
+#Clicking back brings you to the list of suggested products
+
+#I click on Testosterone France 30 amp. 115$ appears a photo and description of the product.
+After the description there is a back button
+Bottom center button Pay.
+( Balkan Pharmaceuticals
+Country France
+Testosterone 10ml
+P/NP 60%/40%
+%: 10-11% )
+
+
+
+#Clicking backwards takes you to the list of suggested products
+
+#If you click on Testosterone France 50 amp. 185$ shows a photo and description of the product.
+After the description is the back button
+Bottom center button Pay.
+
+( Balkan Pharmaceuticals
+Country France
+Testosterone 10ml
+P/NP 60%/40%
+%: 10-11% )
+
+
+#Clicking backwards takes you to the list of suggested products
+
+#Clicking on Metandrostenolone brings up the list of suggested products
+-Methandrostenolone-10 170 mg. 78 usd.
+-3 pack Methandrostenolone-10 170 mg. 108 usd
+-5 pack Methandrostenolone-10 170 mg. 170 usd
+-10 pack Methandrostenolone-10 170 mg. 380 usd
+-Back
+Pressing back will bring you to the selection menu.
+
+#Clicking on 2 packs of Methandrostenolone-10 170 mg. 78 usd the photo and
+product description.
+After the description there is a back button.
+Bottom center button Pay.
+(Balkan Pharmaceuticals Danabol
+Country Moldova
+Metandrostenolone 10mg.
+P/NP 11%/3%
+%: 4-6% )
+
+#Clicking backwards brings you to the list of offered items
+
+#If you click on 3 pack Metandrostenolone 10 170 mg. 108 usd the photo and
+product description.
+After the description there is a back button.
+Bottom center button Pay.
+(Balkan Pharmaceuticals Danabol
+Country Moldova
+Metandrostenolone 10mg.
+P/NP 11%/3%
+%: 4-6% )
+
+#Clicking backwards brings us to the list of offered items
+
+#If you click on 5 pack Metandrostenolone 10 170 mg. 170 usd the photo and
+product description.
+After the description there is a back button.
+Bottom center button Pay.
+(Balkan Pharmaceuticals Danabol
+Country Moldova
+Metandrostenolone 10mg.
+P/NP 11%/3%
+%: 4-6% )
+
+
+#Clicking backwards takes you to the list of offered products
+
+#If you click on 10 pack of Metandrostenolone-10 170 mg. 380 usd appears a photo and
+product description.
+After the description there is a back button.
+Bottom center button Pay.
+(Balkan Pharmaceuticals Danabol
+Country Moldova
+Metandrostenolone 10mg.
+P/NP 11%/3%
+%: 4-6% )
+
+#Clicking backwards takes you to the list of offered items
+
+#Clicking on Strombafort brings up a list of suggested products
+-Strombafort 6 pack. 117$
+-Strombafort 15 pack. 238$
+
+#Clicking on Strombafort 6 packs. 117$ shows a photo and description of the product.
+After the description, there is a back button.
+Below center, there is a Pay button.
+(Strombafort.
+Country Moldova
+Stanozolol 10mg.
+P/NP 7%/9%
+%: 12-16% )
+
+#Clicking backwards takes you to the list of offered items
+
+#Clicking on Strombafort 15 pack. $238, a photo and description of the product appears.
+After the description is the back button.
+Bottom center button Pay.
+(Strombafort
+Country Moldova
+Stanozolol 10mg.
+P/NP 7%/9%
+%: 12-16% )
+
+#Asking back you will get to the list of offered goods
+
+
+#Clicking the Pay button brings up a list of coins that can be used to pay.
+-BTC
+-ETH
+-USDT trc20
+-XMR
+-ZEC
+-LTC
+
+#I will not give a description for each product, because everything here is done by algorithm.
+We take the price of a particular product, go to coinmarketcap, find out the exact
+exchange rate of this or that coin to the dollar. We make a proportion.
+For example: the price of a product is $100, and the bitcoin exchange rate is 27,000 to the dollar.
+We need to know how much bitcoin we need to transfer to make it $100.
+27000 - 1 bitcoin
+100 - x bitcoins
+(100*1)/27000 = 0,0037. So we need to get 0.0037 bitcoin for the item.
+
+
+
+
+#The list pops up when you click on BTC:
+BTC:
+Bt7357hggjk63ffjlcszxvb53fs256gfsjjch531j #Mono
+xxx BTC #Mono #For pricing, how much it will be in btc, contact
+Coinmarketcap or other service.
+Pay up to: #exactly one hour after checkout
+
+Send TXID of transaction after payment.
+
+Cancel payment
+
+#Cancel payment takes you to the list of coins.
+
+#When TXID of transaction is sent, message will pop up:
+-
+
+#Clicking on ETH will bring up a list:
+ETH:
+Eth99357hggjk63ffjlcszxvb53fs256gffgh531j #Mono
+xxx ETH #Mono #For pricing, how much is this in eth, contact
+Coinmarketcap or other service.
+Pay up to: #exactly one hour after checkout
+
+Send TXID of transaction after payment.
+
+#When the TXID of the transaction is sent, a message pops up:
+-Invalid TXID
+
+#If you click on USDT trc20 a list will pop up:
+USDT trc20:
+trc257hggjk63ffjlcszxvb53fs256gfsjjch531j #Mono
+xxx USDT #Mono #For pricing, how much it will be in usdt contact
+Coinmarketcap or other service.
+Pay by: #exactly one hour after request
+
+Send TXID of transaction after payment.
+
+Cancel payment
+
+#When you click Cancel Payment you get to the list of coins.
+
+#When TXID of transaction is sent, message will pop up:
+-Invalid TXID
+
+#Clicking on XMR will bring up a list:
+XMR:
+XMR357hggjk63ffjlcszxvb53fs256gfsjjjch531j #Mono
+xxx XMR #Mono #For the price, how much it will be in xmr contact
+Coinmarketcap or other service.
+Pay up to: #exactly one hour after checkout
+
+After payment send TXID of transaction.
+
+Cancel payment
+
+#Check Cancel Payment takes you to the list of coins.
+
+#When TXID of transaction is sent, message will pop up:
+-Invalid TXID
+
+#Clicking on ZEC will bring up a list:
+ZEC:
+LTc357hggjk63ffjlcszxvb53fs256gfsjjch531j #Mono
+xxx ZEC #Mono #For pricing, how much it will be in zec contact
+Coinmarketcap or other service.
+Pay by: #exactly one hour, after checkout
+
+Send TXID of transaction after payment.
+
+Cancel payment
+
+#Check Cancel Payment takes you to the list of coins.
+
+#When TXID of transaction is sent, message will pop up:
+-Invalid TXID
+
+#I click on LTC and a list pops up:
+LTC:
+Bt7357hggjk63ffjlcszxvb53fs256gfsjjch531j #Mono
+xxx LTC #Mono #For pricing, how much it will be in ltc, contact
+Coinmarketcap or other service.
+Pay up to: #exactly one hour after checkout
+
+Send TXID of transaction after payment.
+
+Cancel payment
+
+#When you click Cancel Payment you get to the list of coins.
+
+#When TXID of transaction is sent, message will pop up:
+-Invalid TXID.
+Back
+
+#Clicking Back will bring you to the select menu.
+
+
+
+
+
