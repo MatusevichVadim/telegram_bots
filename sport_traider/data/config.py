@@ -5,7 +5,7 @@ load_dotenv()
 
 TOKEN = str(os.getenv("TOKEN"))
 API_KEY = str(os.getenv("API_KEY"))
-admins = [422844554]
+admins = []
 
 ip = os.getenv("ip")
 
