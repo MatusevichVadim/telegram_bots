@@ -66,6 +66,6 @@ async def inline_handler(message: types.Message) -> None:
                          reply_markup=ikb)
 
 
-@test_router.message(F.text)
-async def handler(message: types.Message) -> None:
-    await message.answer(text='/start')
+# @test_router.message(F.text)
+# async def handler(message: types.Message) -> None:
+#     await message.answer(text='/start')
