@@ -1,8 +1,12 @@
 from aiogram.types import ReplyKeyboardMarkup, KeyboardButton
 
+languages = [
+    'Русский 🇷🇺',
+    'English 🇺🇸'
+]
+
 kb_language = [
-    [KeyboardButton(text='Русский 🇷🇺'),
-     KeyboardButton(text='English 🇺🇸')]
+    [KeyboardButton(text=i) for i in languages]
 ]
 
 language_keyboard = ReplyKeyboardMarkup(

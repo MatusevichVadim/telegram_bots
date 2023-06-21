@@ -9,8 +9,7 @@ echo_router = Router()
 @echo_router.message(F.text, StateFilter(None))
 async def bot_echo(message: types.Message):
     text = [
-        "Эхо без стейта.",
-        "!",
+        "Эхо без стейта!",
         message.text
     ]
 
@@ -21,9 +20,7 @@ async def bot_echo(message: types.Message):
 async def bot_echo_all(message: types.Message, state: FSMContext):
     state_name = await state.get_state()
     text = [
-        f'Эхо со стейтом {hcode(state_name)}',
-        '!:',
+        f'Эхо со стейтом {hcode(state_name)}!:',
         hcode(message.text)
     ]
     await message.answer('\n'.join(text))
-
