@@ -77,6 +77,7 @@ def add_data(objects, data):
             "session_file": data[0],
             "proxies": [],
             "chats": [],
+            "channel_for_messaging": 0,
         }}
         all_data['all_sessions'][0].update(template)
     elif objects == 'proxies':
@@ -92,7 +93,7 @@ def add_data(objects, data):
                 all_data['all_sessions'][0][data[0]]['chats'].append(int(chat))
 
     elif objects == 'message':
-        all_data['channel_for_messaging'] = data[1]
+        all_data['all_sessions'][0][data[0]]['channel_for_messaging'] = int(data[1])
     else:
         return None
     set_data(all_data)
@@ -203,19 +204,26 @@ def change_chats_proxies_messages():
             print(green + "   [1] Добавим?" + red)
             print(green + "        [1] чаты." + red)
             print(green + "        [2] прокси." + red)
+            print(green + "        [3] чат из которого берутся сообщения." + red)
             print(green + "   [2] Удалим?" + red)
             print(green + "        [1] чаты." + red)
             print(green + "        [2] прокси." + red)
+            print(green + "        [3] чат из которого берутся сообщения можно только поменять." + red)
             print(green + "   [!] Назад" + red)
             choice_3 = input()
             if choice_3 == '11':
                 add_chats(session['session_file'])
             elif choice_3 == '12':
                 add_proxies(session['session_file'])
+            elif choice_3 == '13':
+                add_message(session['session_file'])
             elif choice_3 == '21':
                 delete_data(session['session_file'], 'chat')
             elif choice_3 == '22':
                 delete_data(session['session_file'], 'proxy')
+            elif choice_3 == '23':
+                add_message(session['session_file'])
+                # delete_data(session['session_file'], 'channel_for_messaging')   # !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
             else:
                 main()
     except KeyError:

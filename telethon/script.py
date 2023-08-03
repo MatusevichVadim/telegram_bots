@@ -22,7 +22,6 @@ with open('config.json', 'r') as config:
     all_date = json.load(config)
 delay = int(all_date['delay'])
 thread = int(all_date['threading'])
-channel_for_messaging = int(all_date['channel_for_messaging'])
 random_work_time = list(range(all_date['random_time'][0], all_date['random_time'][1]))
 
 loop = asyncio.new_event_loop()
@@ -38,6 +37,9 @@ async def sleeping_time():
 
 async def get_messages_from_channel(client, chat_id, session=None):
     all_messages = []
+    # channel_for_messaging = int(all_date['channel_for_messaging'])
+    channel_for_messaging = all_date['all_sessions'][0][session]['channel_for_messaging']
+    print(f'{channel_for_messaging = }')
     channel_entity = await client.get_entity(channel_for_messaging)
     # await sleeping_time()
     history = await client(GetHistoryRequest(
